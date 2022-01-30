@@ -1,4 +1,7 @@
  <p>teste_atividaderemota</p>  <br>
-**Refazendo a atividade com orientações do encontro remoto.**
+ 
+** Segunda realização do exercício de Mêrge.** <br>
 
-Clone ok - de Main para teste01
+Criação de branchs, arquivos e clonagem de arquivo. 
+
+

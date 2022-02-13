@@ -1,7 +1,14 @@
- <p>teste_atividaderemota</p>  <br>
+ ## Atividade Remota - 2 
+ ***
  
-** Segunda realização do exercício de Mêrge.** <br>
+ **Segunda realização da atividade do encontro remoto 2** <br>
+ 
+ **_UC7 Versionamento_**<br>
+ 
+ - Criação de Branchs<br>
+ - Clonagem de arquivos <br>
+ - Git Merge<br>
 
-Criação de branchs, arquivos e clonagem de arquivo. 
+ 
 
 
